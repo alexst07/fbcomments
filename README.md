@@ -22,7 +22,7 @@ usage: fbcomments.py [-h] -a ACCESS_TOKEN -p PAGE_URL -i POST_ID -f FILE_NAME
 Suppose you want get all comments from this post: https://www.facebook.com/IFeakingLoveScience/posts/1930277590326576
 
 ```
-fbcomments.py -a EAAC... -p https://www.facebook.com/IFeakingLoveScience -i 1930277590326576 -f comments.txt
+fbcomments.py -a XXX... -p https://www.facebook.com/IFeakingLoveScience -i 1930277590326576 -f comments.txt
 ```
 
 
